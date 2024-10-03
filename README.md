@@ -8,11 +8,11 @@
 
 I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[test]**
+- 🌱 Currently learning: **[Base Fundamentals for Software engineering]**
 - 🔭 Working on: **[Coming Soon]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🌍 Languages: **[Swift / SwiftUI - With previous exposure to SQL, Python, & Javascipt]**
+- 📫 How to reach me: **[Via Github / LinkedIn / Leetcode or Medium]**
+- ⚡ Fun fact: **[I have two pimples on my left ear, that everyone always told me were spare ears incase mine fall off 😂 ]**
 
 
 
@@ -37,26 +37,13 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 ## Follow Along With Me 👇🏻
 
-- **[LeetCode]**![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black) 
-  [here](https://leetcode.com/u/SwiftSanders/) 👈🏻
-- **[LinkedIn]**![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-  [here](https://www.linkedin.com/in/SwiftSanders) 👈🏻
-- **[Medium]**![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) 
-  [here](https://medium.com/@SwiftSanders) 👈🏻
+- **[LeetCode]** 👉🏻  ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black) 
+  [here](https://leetcode.com/u/SwiftSanders/) 
+- **[LinkedIn]** 👉🏻  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+  [here](https://www.linkedin.com/in/SwiftSanders) 
+- **[Medium]** 👉🏻  ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) 
+  [here](https://medium.com/@SwiftSanders) 
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-  [here](https://www.linkedin.com/in/SwiftSanders) 👈🏻
-
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) 
-  [here](https://medium.com/@SwiftSanders) 👈🏻
-
-![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black) 
-  [here](https://leetcode.com/u/SwiftSanders/) 👈🏻
-
-
-
-<!--
-**SwiftSanders/SwiftSanders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
