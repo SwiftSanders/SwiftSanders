@@ -4,6 +4,7 @@
 
 
 
+
 ## About Me 🚀
 
 I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
@@ -37,12 +38,9 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 ## Follow Along With Me 👇🏻
 
-- **[LeetCode]** 👉🏻 
-  [here](https://leetcode.com/u/SwiftSanders/) 
-- **[LinkedIn]** 👉🏻  
-  [here](https://www.linkedin.com/in/SwiftSanders) 
-- **[Medium]** 👉🏻  
-  [here](https://medium.com/@SwiftSanders) 
+- **[Medium]** 👉🏻  [here](https://medium.com/@SwiftSanders) 
+- **[LinkedIn]** 👉🏻 [here](https://www.linkedin.com/in/SwiftSanders) 
+- **[LeetCode]** 👉🏻 [here](https://leetcode.com/u/SwiftSanders/) 
 
 
 
