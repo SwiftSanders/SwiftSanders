@@ -37,12 +37,13 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 ## Follow Along With Me 👇🏻
 
-- **[LeetCode]** 👉🏻  ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black) 
+- **[LeetCode]** 👉🏻 
   [here](https://leetcode.com/u/SwiftSanders/) 
-- **[LinkedIn]** 👉🏻  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+- **[LinkedIn]** 👉🏻  
   [here](https://www.linkedin.com/in/SwiftSanders) 
-- **[Medium]** 👉🏻  ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) 
+- **[Medium]** 👉🏻  
   [here](https://medium.com/@SwiftSanders) 
+
 
 
 Here are some ideas to get you started:
