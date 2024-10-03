@@ -21,10 +21,10 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-[here](https://www.linkedin.com/in/SwiftSanders) ![LinkedIn](https://www.linkedin.com/in/SwiftSanders)
+[here](https://www.linkedin.com/in/SwiftSanders)![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) [here](project_2_repository_link)
+[here](https://medium.com/@SwiftSanders)![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) 
 
 
 ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black) [here](project_2_repository_link)
