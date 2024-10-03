@@ -19,14 +19,6 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 ## My Skills 🧠
 
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-  [here](https://www.linkedin.com/in/SwiftSanders) 👈🏻
-
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) 
-  [here](https://medium.com/@SwiftSanders) 👈🏻
-
-![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black) 
-  [here](https://leetcode.com/u/SwiftSanders/) 👈🏻
 
 
 
@@ -45,9 +37,22 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 ## Follow Along With Me 👇🏻
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[LeetCode]**![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black) 
+  [here](https://leetcode.com/u/SwiftSanders/) 👈🏻
+- **[LinkedIn]**![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+  [here](https://www.linkedin.com/in/SwiftSanders) 👈🏻
+- **[Medium]**![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) 
+  [here](https://medium.com/@SwiftSanders) 👈🏻
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+  [here](https://www.linkedin.com/in/SwiftSanders) 👈🏻
+
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) 
+  [here](https://medium.com/@SwiftSanders) 👈🏻
+
+![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black) 
+  [here](https://leetcode.com/u/SwiftSanders/) 👈🏻
+
 
 
 <!--
