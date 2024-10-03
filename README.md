@@ -19,7 +19,7 @@ I'm a passionate iOS Developer with experience in UI & Web Design. I love tackli
 
 
 ## My Skills 🧠
-!Xcode https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 
 
@@ -31,6 +31,8 @@ I'm a passionate iOS Developer with experience in UI & Web Design. I love tackli
 
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a3d2c2bc-642c-4c9e-87ae-c2324aa25ee2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
 
 
 ## Featured Projects 💻
