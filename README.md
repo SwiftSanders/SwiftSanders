@@ -1,9 +1,5 @@
 # Hi Everyone, I'm [Matthew]! 👋
 
-![Banner Image](your_banner_image_url_here)
-
-
-
 
 ## About Me 🚀
 
