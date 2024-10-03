@@ -9,7 +9,7 @@
 
 I'm a passionate iOS Developer with experience in UI & Web Design. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[Software engineering via x3 3-6 month IBM professional certifcates offered by Coursera+]**
+- 🌱 Currently learning: **[Software engineer fundamentals via x3 3-6 month IBM professional certifcates offered by Coursera+]**
 - 🔭 Working on: **[Coming Soon]**
 - 🌍 Languages: **[Swift / SwiftUI - With previous exposure to SQL, Python, & Javascipt]**
 - 📫 How to reach me: **[Via Github / LinkedIn / Leetcode or Medium using the links below]**
