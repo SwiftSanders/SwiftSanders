@@ -7,7 +7,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **[iOS Developer]** with experience in **[UI Design & Web Design]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[Software engineering via x3 3-6 month IBM professional certifcates offered by Coursera+]**
 - 🔭 Working on: **[Coming Soon]**
