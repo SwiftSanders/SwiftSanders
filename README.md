@@ -9,16 +9,17 @@
 
 I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[Base Fundamentals for Software engineering]**
+- 🌱 Currently learning: **[Software engineering via x3 3-6 month IBM professional certifcates offered by Coursera+]**
 - 🔭 Working on: **[Coming Soon]**
 - 🌍 Languages: **[Swift / SwiftUI - With previous exposure to SQL, Python, & Javascipt]**
 - 📫 How to reach me: **[Via Github / LinkedIn / Leetcode or Medium]**
+- 💬 Ask me about **[anything]**
 - ⚡ Fun fact: **[I have two pimples on my left ear, that everyone always told me were spare ears incase mine fall off 😂 ]**
 
 
 
 ## My Skills 🧠
-
+!Xcode https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white
 
 
 
@@ -38,9 +39,9 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 ## Follow Along With Me 👇🏻
 
-- **[Medium]** 👉🏻  [here](https://medium.com/@SwiftSanders) 
-- **[LinkedIn]** 👉🏻 [here](https://www.linkedin.com/in/SwiftSanders) 
-- **[LeetCode]** 👉🏻 [here](https://leetcode.com/u/SwiftSanders/) 
+- My Blog **[Medium] ** 👉🏻  [here](https://medium.com/@SwiftSanders) 
+- My Social **[LinkedIn]** 👉🏻 [here](https://www.linkedin.com/in/SwiftSanders) 
+- My Problem Sets **[LeetCode]** 👉🏻 [here](https://leetcode.com/u/SwiftSanders/) 
 
 
 
