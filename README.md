@@ -30,6 +30,8 @@ I'm a passionate iOS Developer with experience in UI & Web Design. I love tackli
 - My Problem Sets **[LeetCode]** 👉🏻 [here](https://leetcode.com/u/SwiftSanders/) 
 
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a3d2c2bc-642c-4c9e-87ae-c2324aa25ee2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 ## Featured Projects 💻
 
