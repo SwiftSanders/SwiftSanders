@@ -12,12 +12,12 @@ I'm a passionate iOS Developer with experience in UI & Web Design. I love tackli
 - 📫 How to reach me: **[Via Github / LinkedIn / Leetcode or Medium using the links below]**
 - 💬 Ask me about **[Anything]**
 - ⚡ Fun fact: **[I have two pimples on my left ear, that everyone always told me were spare ears incase mine fall off 😂 ]**
-- 💨 Gaming: **[Love steam gaming, and pretty bad ass CoD player even at 40 years old]**
+- 🕹️ Gaming: **[Love steam gaming, and a pretty bad ass CoD player even at 40 years old]**
 
 
 ## My Skills 🧠
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![SQL](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)![](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
+![](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)![](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 
 
 
