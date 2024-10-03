@@ -9,7 +9,8 @@
 
 I'm a passionate iOS Developer with experience in UI & Web Design. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[Software engineer fundamentals via x3 3-6 month IBM professional certifcates offered by Coursera+]**
+- 🌱 Currently learning: **[Software engineering fundamentals via x3 3-6 month IBM professional certifcates offered by Coursera+]**
+- 📖 Love to learn **[all things about technology]**
 - 🔭 Working on: **[Coming Soon]**
 - 🌍 Languages: **[Swift / SwiftUI - With previous exposure to SQL, Python, & Javascipt]**
 - 📫 How to reach me: **[Via Github / LinkedIn / Leetcode or Medium using the links below]**
@@ -19,7 +20,7 @@ I'm a passionate iOS Developer with experience in UI & Web Design. I love tackli
 
 
 ## My Skills 🧠
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
 
