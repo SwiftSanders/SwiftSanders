@@ -27,9 +27,9 @@ I'm a passionate iOS Developer with experience in UI & Web Design. I love tackli
 
 ## Follow Along With Me 👇🏻
 
-- My Blog **[Medium]** 👉🏻  [here](https://medium.com/@SwiftSanders) 
-- My Social **[LinkedIn]** 👉🏻 [here](https://www.linkedin.com/in/SwiftSanders) 
-- My Problem Sets **[LeetCode]** 👉🏻 [here](https://leetcode.com/u/SwiftSanders/) 
+- My Blog **[Medium]** ➡️  [here](https://medium.com/@SwiftSanders) 
+- My Social **[LinkedIn]** ➡️ [here](https://www.linkedin.com/in/SwiftSanders) 
+- My Problem Sets **[LeetCode]** ➡️ [here](https://leetcode.com/u/SwiftSanders/) 
 
 
 
