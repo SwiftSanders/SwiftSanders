@@ -43,9 +43,10 @@ I'm a passionate iOS Developer with experience in UI & Web Design. I love tackli
 ### [Project 2 Title](project_2_link)
 
 **[Coming soon]** is a **[Project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+Frameworks included, widgetkit, sirikit, app intents, accessibilty etc
 
 
 
-
+///Add learning mediums and methods
 
 
