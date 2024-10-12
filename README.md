@@ -3,19 +3,18 @@
 
 ## About Me 🚀
 
-I'm a passionate iOS Developer with experience in UI & Web Design. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate iOS Developer with experience in UI & Web Design. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions. I'm always interested to see what new technologies come to the forefront! 
 
-- 📖 Love to learn **[About new technologies]**
-- 🌱 Currently learning: **[German & Software engineering fundamentals via a 3-6 month IBM professional certifcates offered by Coursera+]**
-- 🔭 Working on: **[Coming Soon]**
-- 🌍 Languages: **[Swift / SwiftUI - With previous exposure to SQL, Python, & Javascipt]**
-- 📫 How to reach me: **[Via Github / LinkedIn / Leetcode or Medium using the links below]**
-- 💬 Ask me about **[Anything]**
-- ⚡ Fun fact: **[I have two pimples on my left ear, that everyone always told me were spare ears incase mine fall off 😂 ]**
-- 🕹️ Gaming: **[Love steam gaming, and a pretty bad ass CoD player even at 40 years old]**
+- 📚 Currently learning: **[German & Software engineering fundamentals via a 3-6 month IBM professional certifcates offered by Coursera+]**
+- 👨‍💻 Working on: **[Coming Soon]**
+- {} Languages: **[Swift / SwiftUI - With exposure to SQL, Python, & Javascipt]**
+- 📩 How to reach me: **[Via Github / LinkedIn / Leetcode or Medium using the links below]**
+- 😆 Fun fact: **[I have two pimples on my left ear, that people always told me were spare ears incase mine fall off 😂 ]**
+- 🕹️ Gaming: **[Life long supporter of steam gaming, and a pretty bad-ass CoD player even at 40]**
+- 🫀 Hobbies & Interests: **[I love the sea, creative expression, vanlife and travelling, passionate designer and coding advocate. Hiker/swimmer/cyclist]** 
 
 
-## My Skills 🧠
+## My Skills 👨‍💻
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![SQL](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)![](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 
