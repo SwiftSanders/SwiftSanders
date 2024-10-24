@@ -5,7 +5,7 @@
 
 I'm a passionate iOS Developer with experience in UI & Web Design. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions. I'm always interested to see what new technologies come to the forefront! 
 
-- 🚀 Currently learning: **[German & [IBM iOS and Android Mobile App Developer Professional Certificate](https://medium.com/@SwiftSanders)** 
+- 🚀 Currently learning: **[German & [IBM iOS and Android Mobile App Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-ios-android-mobile-app-developer-pc)** 
 - 👨‍💻 Working on: **[Coming Soon]**
 - {} Languages: **[Swift / SwiftUI - With exposure to SQL, Python, & Javascipt]**
 - 📩 How to reach me: **[Via Github / LinkedIn / Leetcode or Medium using the links below]**
