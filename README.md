@@ -1,4 +1,4 @@
-# Hi Everyone, I'm [Matthew]! 👋
+# Hi Everyone, I'm Matthew! 👋
 
 
 ## About Me 🚀
