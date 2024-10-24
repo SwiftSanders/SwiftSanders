@@ -47,4 +47,4 @@ Frameworks included, widgetkit, sirikit, app intents, accessibilty. list framewo
 
 
 
-///Add learning mediums and methods and resources to medium article and here. 
+///To Add - learning channels and resources. 
