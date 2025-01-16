@@ -26,8 +26,8 @@ I'm a passionate iOS Developer with experience in UI & Web Design. I love tackli
 
 ## Follow Along With Me 👇🏻
 
-- My Social [**LinkedIn**](https://www.linkedin.com/in/SwiftSanders) 
 - My Business [**Bloq.**](https://www.bloq.design) 
+- My Social [**LinkedIn**](https://www.linkedin.com/in/SwiftSanders) 
 - My Problem Sets [**LeetCode**](https://leetcode.com/u/SwiftSanders/) 
 
 
@@ -39,7 +39,7 @@ I'm a passionate iOS Developer with experience in UI & Web Design. I love tackli
 
 ### [AutoDash](project_3_link)
 
-**[AutoDash.dev]** is a **[Project description]** built with **[CarPlay 2 /or Next Gneration CarPlay]**. This project showcases my skills in **[Various Native apple frameworks and API's]**. You can check out the repository [here](project_2_repository_link).
+**[AutoDash.dev]** is a **[Automotive Industry User Interface Project]** built with **[Swift/SwiftUI & CarPlay 2 /or the Next Generation CarPlay]**. This project showcases my skills in **[Various Native apple frameworks and API's]**. You can check out the repository, designs and Keynote [here](project_2_repository_link).
 Frameworks included; CarPlay, widgetkit, sirikit, app intents, accessibilty. 
 
 
