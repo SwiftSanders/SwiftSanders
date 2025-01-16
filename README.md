@@ -37,7 +37,7 @@ I'm a passionate iOS Developer with experience in UI & Web Design. I love tackli
 
 ## Personal Featured Project 💻
 
-### [AutoDash.dev](project_3_link)
+### [AutoDash.dev](https://autodash.dev)
 
 **[AutoDash]** is a **[Automotive Industry User Interface Project]** built with **[Swift/SwiftUI & CarPlay 2 /or the Next Generation CarPlay]**. This project showcases my skills in **[Various Native apple frameworks and API's]**. You can check out the repository, designs and Keynote [here](project_2_repository_link).
 Frameworks included; CarPlay, widgetkit, sirikit, app intents, accessibilty. 
