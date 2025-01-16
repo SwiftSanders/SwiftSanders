@@ -36,9 +36,9 @@ I'm a passionate iOS Developer with experience in UI & Web Design. I love tackli
 
 ## Personal Featured Project 💻
 
-### [Project 3 Title](project_3_link)
+### [AutoDash](project_3_link)
 
-**[Coming soon]** is a **[Project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+**[AutoDash.dev]** is a **[Project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
 Frameworks included, widgetkit, sirikit, app intents, accessibilty. list frameworks, patterns, unit test etc.
 
 
