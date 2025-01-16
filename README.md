@@ -7,11 +7,11 @@ I'm a passionate iOS Developer with experience in UI & Web Design. I love tackli
 
 - 🚀 Currently learning: **[German](https://www.duolingo.com) & [IBM iOS and Android Mobile App Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-ios-android-mobile-app-developer-pc)** 
 - 👨‍💻 Working on: **[AutoDash.dev](https://autodash.dev)**
-- {[]} **Languages:** Swift / SwiftUI - With exposure to SQLite, Python, & Javascipt
-- 📩 **How to reach me:** Via Github / LinkedIn / or Leetcode using the links below
-- 😆 **Fun fact:** I have two pimples on my left ear, that people always told me were spare ears incase mine fall off 😂 
-- 🕹️ **Gaming:** Life long supporter of steam gaming, and a pretty bad-ass CoD player even at 40
-- 🫀 **Hobbies & Interests:** I enjoy the sea, creative expression, vanlife and travelling, walker/swimmer/cyclist 
+- {[]} Languages: **Swift / SwiftUI - With exposure to SQLite, Python, & Javascipt**
+- 📩 How to reach me: **Via Github / LinkedIn / or Leetcode using the links below**
+- 😆 Fun fact: **I have two pimples on my left ear, that people always told me were spare ears incase mine fall off 😂** 
+- 🕹️ Gaming: **Life long supporter of steam gaming, and a pretty bad-ass CoD player even at 40**
+- 🫀 Hobbies & Interests: **I enjoy the sea, creative expression, vanlife and travelling, walker/swimmer/cyclist**
 
 
 ## My Skills 👨‍💻
